@@ -11,25 +11,6 @@
 }
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Utiylity class */
 .py-80{ padding: 30px;}
 .py-50{ padding: 20px;}
@@ -85,7 +66,7 @@
     background: url('../img/dos\ respn.jpg');
     width: 99.3%;
     background-repeat: no-repeat;
-   margin-top: 10px;
+    margin-top: 10px;
     padding: 0px;
     height: 100%;
     text-align: center;

@@ -3,11 +3,11 @@
     margin-right: 35px;
   }
 
-  .info-container{
+  .info-container {
     width: 100%;
     margin-top: 40px;
     margin-left: 10px;
-  
+
   }
 
   .info-container .box-container .box {
@@ -20,9 +20,9 @@
   .info-container .box-container .box p {
     font-size: 18px;
   }
-  
- 
-    
+
+
+
 }
 
 
@@ -52,18 +52,18 @@
 
 @media (max-width:858px) {
 
-   #navbar .logo {
+  #navbar .logo {
     margin-top: 17px;
     margin-left: 55px;
     width: 210px;
     height: 93px;
-  } 
+  }
 
-  
+
   #navbar .logo:hover {
     width: 213px;
     height: 100px;
-  
+
   }
 
   #navbar ul {
@@ -72,25 +72,25 @@
 
   }
 
-  #reservation h2{
-   margin-left: 35px;
+  #reservation h2 {
+    margin-left: 35px;
   }
 
-  #reservation a{
+  #reservation a {
     margin-right: 35px;
-   }
+  }
 
-   #features{
+  #features {
     float: none;
   }
 
 
-  .about-content{
+  .about-content {
     width: 100% !important;
     margin-bottom: 35px;
   }
 
-  .about-content h1{
+  .about-content h1 {
     text-align: center;
   }
 
@@ -98,17 +98,17 @@
     float: none;
     width: 94%;
   }
-  
+
   #about .about-img img {
     margin-left: 20px;
     height: 350px;
   }
 
-  #about .about-img img{
+  #about .about-img img {
     text-align: center !important;
   }
 
-  .faq .accordion-container .accordion .accordion-heading{
+  .faq .accordion-container .accordion .accordion-heading {
     margin: 0px 45px;
   }
 
@@ -120,6 +120,7 @@
   .pie-pagina .grupo-1 h2 {
     margin-left: 146px !important;
   }
+
   .pie-pagina .grupo-1 h3 {
     margin-left: 146px !important;
   }
@@ -149,6 +150,73 @@
 
 }
 
+@media (max-width:801px) {
+
+  .pie-pagina .grupo-1 {
+    padding: 5px;
+    margin-left: 146px;
+  }
+
+  .pie-pagina .grupo-1 img {
+    margin: 20px auto;
+    margin-right: 250px;
+
+  }
+
+
+
+  .pie-pagina .grupo-1 span {
+    margin-left: 25px;
+  }
+
+
+  .info-container .box-container .box {
+    width: 240px;
+
+  }
+
+  .info-container .box-container .box p {
+    font-size: 15px;
+
+  }
+
+
+  .map {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 620px;
+  }
+
+  #mapa .bars-lateral {
+
+    width: 450px;
+    height: 616px;
+    ;
+  }
+
+  .bars-lateral .refe {
+    margin-left: -70px;
+
+  }
+
+  .bars-lateral .refe p {
+
+    font-size: 15px;
+  }
+
+  .bars-lateral .refe .par1 {
+    font-size: 15px;
+  }
+
+
+
+
+
+
+
+
+}
+
 @media (max-width:762px) {
   .checkbtn {
     display: block;
@@ -159,13 +227,13 @@
     margin-left: 55px;
     width: 210px;
     height: 93px;
-  } 
+  }
 
-  
+
   #navbar .logo:hover {
     width: 260px;
     height: 123px;
-  
+
   }
 
 
@@ -178,7 +246,7 @@
     left: -100%;
     text-align: center;
     transition: all .5s;
-    
+
   }
 
   #navbar ul li {
@@ -186,16 +254,16 @@
     margin: 48px 0;
     padding: 5px;
     line-height: 4px;
-    border-bottom: 3px solid; 
+    border-bottom: 3px solid;
     text-align: center;
     height: 40px;
     margin-top: 40px;
-    
+
   }
 
   #navbar ul li a {
     font-size: 20px !important;
-  
+
   }
 
   li a:hover,
@@ -214,7 +282,7 @@
   }
 
   .container3 h1 {
-    
+
     padding-top: 20px;
     margin-left: 250px;
   }
@@ -222,7 +290,7 @@
 
 }
 
- 
+
 
 
 @media (max-width:768px) {
@@ -274,7 +342,7 @@
     width: 90%;
     grid-template-columns: repeat(1, 1fr);
     grid-gap: 30px;
-    padding: 35px 50px;
+    padding: 35px 5px;
   }
 
   .pie-pagina .grupo-1 .box1 figure img {
@@ -335,11 +403,11 @@
   }
 
   .container3 h1 {
-    
+
     margin-left: 110px;
   }
 
-  .map{
+  .map {
     margin-left: 25px;
     margin-right: 50px;
     width: 620px;
@@ -347,72 +415,73 @@
 
 
 
- .info-container .box-container .box {
-  width: 200px;
-  height: 250px;
+  .info-container .box-container .box {
+    width: 200px;
+    height: 250px;
 
- }
+  }
 
- .info-container .box-container .box h3 {
-  font-size: 20px;
-  margin-top: 10px;
- }
+  .info-container .box-container .box h3 {
+    font-size: 20px;
+    margin-top: 10px;
+  }
 
- .info-container .box-container .box p {
-  font-size: 13px;
-  margin-left: -16px;
- }
+  .info-container .box-container .box p {
+    font-size: 13px;
+    margin-left: -16px;
+  }
 
- #mapa{
-  height: 590px;
-}
+  #mapa {
+    height: 590px;
+  }
 
-.map{
-  margin-left: 5px ;
-  margin-right: 5px ;
-  width: 460px ;
-  height: 550px ;
-}
+  .map {
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 460px;
+    height: 550px;
+  }
 
-.cuadro{
+  .cuadro {
 
-margin-left: 15px;
-  
-}
+    margin-left: 15px;
 
-.bars-lateral .refe img{
+  }
 
-  width: 70px;
-  height: 60px;
+  .bars-lateral .refe img {
 
-}
+    width: 70px;
+    height: 60px;
 
-.bars-lateral .refe p{
+  }
 
-  font-size: 15px;
-}
+  .bars-lateral .refe p {
 
-.bars-lateral .refe .par1{
-  font-size: 15px;
-}
+    font-size: 15px;
+  }
 
-#mapa .bars-lateral{
-  float: left;
-  margin-top: 20px;
-  margin-left: 0px;
-  background-color: #fff;
-  width: 300px;
-  height: 550px;;
-}
+  .bars-lateral .refe .par1 {
+    font-size: 15px;
+  }
 
-.pie-pagina .grupo-1 p {
-  margin-left: 65px ;
+  #mapa .bars-lateral {
+    float: left;
+    margin-top: 20px;
+    margin-left: 0px;
+    background-color: #fff;
+    width: 300px;
+    height: 550px;
+    ;
+  }
 
-}
+  .pie-pagina .grupo-1 p {
+    margin-left: 65px;
 
-#showcase{
-  width: 100%;
-}
+  }
+
+  #showcase {
+    width: 100%;
+  }
 
 
 
@@ -525,7 +594,7 @@ margin-left: 15px;
     width: 100%;
   }
 
-  #about .about-img  {
+  #about .about-img {
     margin-left: -18px;
   }
 
@@ -565,7 +634,7 @@ margin-left: 15px;
     margin-top: -40px !important;
     font-size: 25px;
   }
-  
+
 
   .card {
     margin-top: 0px !important;
@@ -595,10 +664,11 @@ margin-left: 15px;
     color: #000;
     font-size: 30px;
   }
-  .targ a:hover{
+
+  .targ a:hover {
     font-size: 32px;
     color: #fda94f;
-}
+  }
 
 
   .card-content h2 {
@@ -614,12 +684,12 @@ margin-left: 15px;
     margin-top: -20px;
   }
 
-  .faq .heading{
+  .faq .heading {
     color: #000;
     font-size: 20px;
   }
 
-  .faq .accordion-container .accordion .accordion-heading{
+  .faq .accordion-container .accordion .accordion-heading {
     margin: 0px 20px;
   }
 
@@ -628,22 +698,22 @@ margin-left: 15px;
     color: #fff;
   }
 
-  .social-bar{
+  .social-bar {
     display: none;
   }
 
-  .info-container{
+  .info-container {
     width: 100%;
     margin-top: 40px;
     margin-left: 4px;
 
   }
-  
+
   .info-container .box-container .box {
     width: 370px;
     height: 250px;
     margin: 10px;
-  
+
   }
 
   .info-container .box-container .box p {
@@ -651,57 +721,67 @@ margin-left: 15px;
 
   }
 
-  .map{
+  .map {
     margin-left: 25px;
     margin-right: 50px;
     width: 360px;
   }
 
-  #mapa{
+  #mapa {
     display: block;
     height: 1080px;
 
   }
 
-  #mapa .bars-lateral{
-  float: left;
-  margin-top: 20px;
-  margin-left: 0px;
-  background-color: #fff;
-  width: 389px;
-  height: 615px;;
-}
+  #mapa .bars-lateral {
+    float: left;
+    margin-top: 20px;
+    margin-left: 0px;
+    background-color: #fff;
+    width: 389px;
+    height: 615px;
+    ;
+  }
 
-.bars-lateral h3{
-  margin-top: 35px;
-  margin-bottom: 30px;
-  text-align: center;
-  color: #000;
-  font-family: 'Baloo 2', cursive;
-  border-bottom: 3px solid #fda94f;
-}
+  .bars-lateral h3 {
+    margin-top: 35px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #000;
+    font-family: 'Baloo 2', cursive;
+    border-bottom: 3px solid #fda94f;
+  }
 
-.cuadro{
+  .cuadro {
 
-  margin-left: 20px;
-  
-}
+    margin-left: 20px;
 
-.map{
+  }
 
-  width: 386px;
+  .map {
 
-  height: 410px;
-  margin-right: 3px;
+    width: 386px;
 
-  
-}
+    height: 410px;
+    margin-right: 3px;
 
 
+  }
 
-.pie-pagina .grupo-1 img {
-    margin-left: 14px !important;
-}
+  .bars-lateral .refe img {
+    margin-left: 90px;
+  }
+
+
+
+  .pie-pagina .grupo-1 img {
+    margin-left: 0px !important;
+  }
+
+  .pie-pagina .grupo-1 .box1 {
+    margin-left: -100px;
+  }
+
 
 
   .pie-pagina .grupo-1 .box1 figure img {
@@ -711,6 +791,7 @@ margin-left: 15px;
   .pie-pagina .grupo-1 h2 {
     margin-left: 46px !important;
   }
+
   .pie-pagina .grupo-1 h3 {
     margin-left: 22px !important;
   }
@@ -719,6 +800,7 @@ margin-left: 15px;
     margin-left: 15px !important;
     font-size: 15px !important;
   }
+
   .pie-pagina .m {
     font-size: 35px !important;
   }
@@ -741,7 +823,7 @@ margin-left: 15px;
   .pie-pagina .grupo-1 {
     grid-gap: 20px;
   }
-  
+
 
 }
 
@@ -750,15 +832,16 @@ margin-left: 15px;
 
   .info-container .box-container .box {
     width: 350px;
-  
+
   }
-  .map{
+
+  .map {
     margin-left: 25px;
     margin-right: 10px;
     width: 360px;
   }
 
-  #mapa .bars-lateral{
+  #mapa .bars-lateral {
 
     margin-left: 10px;
 
@@ -766,13 +849,13 @@ margin-left: 15px;
 
   }
 
-  .cuadro{
+  .cuadro {
 
     margin-left: 20px;
-    
-    }
-  
-  
+
+  }
+
+
 }
 
 
@@ -783,32 +866,34 @@ margin-left: 15px;
 
   }
 
-  .map{
+  .map {
     margin-left: 25px;
     margin-right: 6px;
     width: 340px;
   }
-  #mapa .bars-lateral{
+
+  #mapa .bars-lateral {
     float: left;
     margin-top: 20px;
     margin-left: 0px;
     background-color: #fff;
     width: 350px;
-    height: 615px;;
+    height: 615px;
+    ;
   }
 
-  .bars-lateral .refe p{
+  .bars-lateral .refe p {
 
     font-size: 17px;
   }
 
-  .bars-lateral .refe .par1{
+  .bars-lateral .refe .par1 {
     font-size: 17px;
   }
-  
-  
-  
-  
+
+
+
+
 }
 
 @media (max-width:361px) {
@@ -818,21 +903,22 @@ margin-left: 15px;
 
 
   }
-  .map{
+
+  .map {
     float: right;
-    margin-right: 14px ;
-    width: 326px ;
+    margin-right: 14px;
+    width: 326px;
 
   }
 
-  #mapa .bars-lateral{
+  #mapa .bars-lateral {
     float: left;
-    margin-left: 13px ; 
-    width: 326px ;
-    height: 615px;;
+    margin-left: 13px;
+    width: 326px;
+    height: 615px;
+    ;
   }
-  
-  
-  
-}
 
+
+
+}

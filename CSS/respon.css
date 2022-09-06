@@ -3,6 +3,11 @@
     margin-right: 35px;
   }
 
+  .card-content .name{
+    font-size: 20px !important;
+
+ }
+
   .info-container {
     width: 100%;
     margin-top: 40px;
@@ -866,6 +871,15 @@
 
   }
 
+  .card-content .name{
+    font-size: 24px !important;
+
+ }
+ .targ a{
+  margin-top: 20px;
+ }
+
+
   .map {
     margin-left: 25px;
     margin-right: 6px;
@@ -903,6 +917,15 @@
 
 
   }
+
+  .card-content .name{
+    font-size: 25px !important;
+
+ }
+
+ .targ a{
+  margin-top: 20px;
+ }
 
   .map {
     float: right;
